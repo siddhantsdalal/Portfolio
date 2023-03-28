@@ -1,0 +1,6 @@
+Tools used:
+Bootstrap
+Jquery
+
+Font sites used:
+fonts.google.com
